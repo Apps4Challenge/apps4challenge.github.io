@@ -2482,3 +2482,7 @@ triplelift.com, 14699, RESELLER, 6c33edb13117fd86
 yango-ads.com, 107497951, DIRECT
 bidease.com, bidease_seller_49, RESELLER
 bold-win.com, 1145, RESELLER, 71746737d0bab951
+appnexus.com, 12622, RESELLER
+media.net, 8CU47MDK1, RESELLER, 818f58666cabc936
+adform.com, 2671, RESELLER
+adform.com, 3317, RESELLER
